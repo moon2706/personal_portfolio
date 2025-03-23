@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Personal Portfolio - Rishikesh Pradhan
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🌟 Welcome to My Portfolio!
+Explore my personal portfolio at [rishikesh-pradhan.vercel.app](https://rishikesh-pradhan.vercel.app/), where I showcase my projects, skills, certifications, and achievements. This portfolio is a reflection of my journey as a Computer Science and Engineering student, passionate about using technology to solve real-world problems.
 
-## Available Scripts
+## 🧑‍💻 About Me
+I'm **Rishikesh Pradhan**, a Computer Science Engineering student specializing in **AI & ML** at the **Institute of Aeronautical Engineering, Hyderabad**. I have a solid foundation in programming and a strong desire to contribute innovative solutions to the tech world.
 
-In the project directory, you can run:
+## 🚀 What You’ll Find in My Portfolio
+- **About Me:** A brief introduction about my academic journey, passion for technology, and goals.
+- **Skills:** A detailed list of my technical skills including programming languages, libraries, and tools.
+- **Projects:** Showcasing real-world projects like:
+  - 🌟 **[MindHaven](https://github.com/moon2706/MindHaven)**: A repository of innovative thoughts and ideas, aimed at leveraging technology for a better and more efficient society. Stay tuned for groundbreaking ideas that could drive positive change!
+  - 📚 **Genre Classification IMDb**: Classifies movie genres using machine learning algorithms.
+  - 🛒 **QR Checkout**: Seamless checkout system using QR code scanning, inspired by the Decathlon self-checkout experience.
+  - 🛍️ **E-commerce Website (VigilMart)**: A responsive full-stack e-commerce platform with product management, shopping cart functionality, and secure payment integration.
+  - 🏥 **Personalized Medicine Recommendation System**: Utilizes NER and machine learning to recommend appropriate medicines.
+  - 🧑‍💼 **Fake Job Recruitment Detection**: Detects fraudulent job postings using LSTM networks.
+  - 🚗 **Family Travel Tracker**: A personal travel logging website using PostgreSQL.
+  - 🧠 **Brain Tumor Detection**: Implemented using YOLOv10 and Roboflow API.
+- **Achievements:** Key milestones including:
+  - **Top 100 Ranking** in the Amazon ML Challenge
+  - **Cracked GATE DA 2025** with a rank in the **top 1.53%**
+- **Contact:** Reach out for collaborations or just to connect!
 
-### `npm start`
+## 🛠️ Tech Stack
+- **Programming Languages:** Python, Java, JavaScript
+- **Database Management:** MySQL, SQL, PostgreSQL, SQLite
+- **Front-End Development:** HTML, CSS, React.js
+- **ML Libraries:** Pandas, Matplotlib, Numpy, TensorFlow, Keras, Scikit-learn
+- **Frameworks and Tools:** Flask, Node.js, Git, GitHub, Jupyter Notebook, VS Code
+- **DL Techniques:** CNN, LSTM
+- **NLP:** Regex, LangChain
+- **Soft Skills:** Problem Solving, Teamwork, Time Management, Adaptability
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📩 Connect with Me
+- **GitHub:** [moon2706](https://github.com/moon2706)
+- **Email:** [moon.pat2002@gmail.com](mailto:moon.pat2002@gmail.com)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚧 Future Plans
+Stay tuned for updates as I continue to explore new technologies and contribute to open-source projects. More innovative ideas and solutions are on the way!
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Thank you for visiting my portfolio. Let’s build something amazing together! 🌿
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
